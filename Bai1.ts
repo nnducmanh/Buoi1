@@ -1,4 +1,4 @@
-class Person{
+export class Person{
     public name: String;
     public age: number;
 
